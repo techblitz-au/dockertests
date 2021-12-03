@@ -32,3 +32,7 @@ echo "getting your node version"
 node -v
 npm -v
 echo "script finished"
+source /root/.profile
+source ~/.bashrc
+npm -v
+node -v
