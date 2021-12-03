@@ -27,12 +27,6 @@ echo "Latest node is installed"
 sleep 3
 source /root/.profile
 source ~/.bashrc
-sleep 8
-echo "getting your node version"
-node -v
-npm -v
-echo "script finished"
-source /root/.profile
-source ~/.bashrc
 npm -v
 node -v
+echo 'setup finished'
