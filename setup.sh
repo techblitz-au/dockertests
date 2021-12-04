@@ -30,3 +30,7 @@ source ~/.bashrc
 npm -v
 node -v
 echo 'setup finished'
+npm init -y
+sleep 2
+npm i graphql
+docker images
